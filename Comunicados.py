@@ -6,9 +6,9 @@ import os
 from playwright.sync_api import sync_playwright
 import time
 
-CVM_CODE = 25682
+CVM_CODE = 25682 #Codigo da VVEO3, Alterar se Necessario
 TICKER = "VVEO3"
-YEARS = [2021, 2022, 2023, 2024] # 
+YEARS = [2021, 2022, 2023, 2024, 2025] #Alterar Anos que deseja baixar.
 base_folder = f"Documentos_{TICKER}_Final"
 os.makedirs(base_folder, exist_ok=True)
 
