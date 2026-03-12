@@ -12,3 +12,7 @@ Este projeto consiste em uma análise qualitativa e quantitativa da empresa Vive
 - Examinar as margens de lucratividade e a eficiência operacional
 - Analisar tendências de mercado e o posicionamento competitivo
 - Identificar pontos fortes, fraquezas, oportunidades e ameaças (SWOT)
+
+## Fonte de Dados.
+- BP/DRE tratados por [Fundamentus.com.br](https://www.fundamentus.com.br/)
+- Modelo de Valuation de Aswath Damodaran https://pages.stern.nyu.edu/~adamodar/New_Home_Page/spreadsh.htm
