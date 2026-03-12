@@ -15,4 +15,4 @@ Este projeto consiste em uma análise qualitativa e quantitativa da empresa Vive
 
 ## Fonte de Dados.
 - BP/DRE tratados por [Fundamentus.com.br](https://www.fundamentus.com.br/)
-- Modelo de Valuation de Aswath Damodaran https://pages.stern.nyu.edu/~adamodar/New_Home_Page/spreadsh.htm
+- Modelo de Valuation Utilizado será uma modificação do Laudo de Avaliação da Cremer em 2018 feito pelo Banco ABC.
